@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"fontawesomeiconArray"
+			],
+			[
+				"in",
+				"inputWhich"
+			],
+			[
+				"ge",
+				"geticonid"
+			],
+			[
+				"whic",
+				"whichInput"
+			],
+			[
+				"wi",
+				"whichInput"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"them",
+				"themeModSocial"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"res",
+				"responseText_2"
+			],
+			[
+				"ran",
+				"randomJson"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"r",
+				"responseText"
+			],
+			[
+				"crea",
+				"createServer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/projects/bookmarks-merge-tool"
+	],
+	"file_history":
+	[
+		"/C/Users/depy/AppData/Local/Google/Chrome/User Data/Default/Extensions/joodangkbfjnajiiifokapkpmhfnpleo/2.1.11_0/AppCalc.html",
+		"/C/Users/depy/AppData/Local/Google/Chrome/User Data/Default/Extensions/joodangkbfjnajiiifokapkpmhfnpleo/2.1.11_0/foam.js",
+		"/C/wamp/www/projects/simple-fontawesome-iconpicker/simple-iconpicker.js",
+		"/C/wamp/www/projects/simple-fontawesome-iconpicker/simple-fontawesome-iconpicker/index.html",
+		"/C/wamp/www/projects/simple-fontawesome-iconpicker/simple-fontawesome-iconpicker/simple-iconpicker.min.js",
+		"/C/wamp/www/projects/simple-fontawesome-iconpicker/simple-fontawesome-iconpicker/simple-iconpicker.js",
+		"/C/wamp/www/projects/simple-fontawesome-iconpicker/simple-fontawesome-iconpicker/Gruntfile.js",
+		"/C/Users/depy/Downloads/simple-fontawesome-iconpicker-master (2)/simple-fontawesome-iconpicker-master/index.html",
+		"/C/wamp/www/products/editors/ckeditor-math/editor/styles.js",
+		"/C/Users/depy/Downloads/simple-fontawesome-iconpicker-master (2)/simple-fontawesome-iconpicker-master/simple-iconpicker.js",
+		"/C/Users/depy/Downloads/template-5199911802100398432.xml",
+		"/C/Users/depy/Downloads/vlsub-master/vlsub-master/vlsub.lua",
+		"/C/wamp/www/demo/revealjs/demo-1-reveal-js/js/main.js",
+		"/C/wamp/www/demo/revealjs/demo-1-reveal-js/index.html",
+		"/C/wamp/www/demo/revealjs/demo-1-reveal-js/css/empty.css",
+		"/C/Users/depy/Downloads/https_plus.google.com_0.localstorage",
+		"/C/wamp/www/experiments/circle-elements/js/main.js",
+		"/C/Users/depy/Desktop/hosts1",
+		"/C/Users/depy/Downloads/MEmu Download/location_share-debug/classes.dex",
+		"/C/Users/depy/Downloads/MEmu Download/location_share-debug/META-INF/CERT.RSA",
+		"/C/Users/depy/AppData/Local/Google/Chrome/User Data/Default/Extensions/knipolnnllmklapflnccelgolnpehhpl/2016.418.1455.4_0/manifest.json",
+		"/P/@ Chat with Megan Herman - Google/capture-1/capture-1_controller.swf",
+		"/C/Windows/System32/drivers/etc/networks",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/P/Chrome/Themes/manifest.json",
+		"/C/Users/depy/Documents/NodeJS/serverTester/index.js",
+		"/C/Users/depy/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#navbar",
+			"fa-",
+			"||",
+			".date-outer time,.nav-inner,.logo-header",
+			".date-outer time, .nav-inner, .logo-header",
+			"hire",
+			"searc",
+			"Sorts",
+			".css",
+			"full-css",
+			"jquer",
+			"date-outer",
+			"<!-- quickedit pencil -->\n        <b:include data='post' name='postQuickEdit'/>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bookmarks-merge-tool-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
